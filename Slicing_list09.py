@@ -6,5 +6,5 @@ def main(list1,n):
         n(int): parameter
     Returns:
         list: return answer.
-    """
+    """ 
     return list1[n - 1:]

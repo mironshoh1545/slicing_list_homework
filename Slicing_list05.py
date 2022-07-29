@@ -4,7 +4,7 @@ def main(list1,n,k):
     Args:
         list1(list): parameter
         n(int): parameter
-        k(int): parameter
+        k(int): parameter 
     Returns:
         list: return answer.
     """

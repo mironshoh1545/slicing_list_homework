@@ -8,4 +8,4 @@ def main(list1,n):
         list: return answer.
     """
     list1 = list1[::-1]
-    return list1[n-1:]
+    return list1[n-1:] 

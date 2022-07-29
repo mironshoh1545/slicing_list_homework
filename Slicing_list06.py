@@ -5,7 +5,7 @@ def main(list1):
     Returns:
         list: return answer.
     """
-
+ 
     n = []
     for i in  range(0, len(list1), 3):
         n += [list1[i]]

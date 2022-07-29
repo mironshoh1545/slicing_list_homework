@@ -10,4 +10,4 @@ def main(numbers):
     n = []
     for i in  range(0, len(numbers), 2):
         n += [numbers[i]]
-    return n
+    return n 

@@ -4,6 +4,6 @@ def main(list1):
     Args:
         list1(list): parameter
     Returns:
-        list: return answer.
+        list: return answer. 
     """
     return list1[:3]

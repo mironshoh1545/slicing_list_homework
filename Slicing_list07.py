@@ -5,7 +5,7 @@ def main(list1,n):
         list1(list): parameter
         n(int): parameter
     Returns:
-        list: return answer.
+        list: return answer. 
     """
     
     n = []

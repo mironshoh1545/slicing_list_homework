@@ -6,7 +6,7 @@ def main(list1,n):
         n(int): parameter
     Returns:
         list: return answer.
-    """
+    """ 
     list1 = list1[::-1]
     n = []
     for i in  range(0, len(list1), n):
