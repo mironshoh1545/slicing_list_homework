@@ -1,3 +1,4 @@
+
 def main(numbers):
     """
     A list called numbers is given. Return the items in the odd index.
@@ -6,4 +7,7 @@ def main(numbers):
     Returns:
         list: return answer.
     """
-    return
+    n = []
+    for i in  range(0, len(numbers), 2):
+        n += [numbers[i]]
+    return n
